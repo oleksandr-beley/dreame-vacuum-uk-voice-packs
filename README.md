@@ -44,9 +44,9 @@ You can install the Ukrainian voice pack on your Dreame vacuum cleaner using one
 - Open Valetudo's web interface by entering your vacuum's IP address in a web browser.
 - In Valetudo, navigate to `"Robot Settings"`-> `"Misc Settings."`
 - Enter the following information in the `"Voice packs"` section:
-    - **URL:** Raw URL for the voice pack from the "voice_packs" directory in this repository.
+    - **URL:** Raw URL for the voice pack from the "voice_packs" directory in this repository: [link](https://github.com/oleksandr-belei/dreame-vacuum-uk-voice-packs/raw/main/voice_packs/uk_female_pensive)
     - **Language Code:** 'UK'
-    - **Hash:** The hash of the voice pack.
+    - **Hash:** The hash of the voice pack: `55bfe4272ce1e77d9bbafebf9ec99330`)
     - **File size:** The file size of the voice pack in bytes.
 - Save the settings by clicking `"Set Voice Pack`."
 
